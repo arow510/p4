@@ -9,8 +9,10 @@
 </head>
 <body>
 
+<center>
+<h2> Cloud Task Manager </h2>
 
-<h2> Welcome to my page </h2>
+</center>
 
 
 
